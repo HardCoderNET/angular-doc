@@ -58,8 +58,8 @@ https://github.com/angular/angular-phonecat/compare/step-10...step-11 GitHub}:
 __`app/index.html`.__
 <pre>
 ...
-  <script src="js/services.js"></script>
   <script src="lib/angular/angular-resource.js"></script>
+  <script src="js/services.js"></script>
 ...
 </pre>
 
